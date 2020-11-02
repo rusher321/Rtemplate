@@ -1,13 +1,18 @@
 Package: Rtemplate
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: A R package template
+Version: 0.0.0.0
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Huahui",
+           family = "Ren",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "renhuahui@genomics.cm",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: A R package template.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    forcats
