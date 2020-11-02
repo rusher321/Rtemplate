@@ -16,3 +16,5 @@ Suggests:
     testthat (>= 2.1.0)
 Imports: 
     forcats
+URL: https://github.com/rusher321/Rtemplate
+BugReports: https://github.com/rusher321/Rtemplate/issues
